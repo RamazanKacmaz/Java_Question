@@ -1,3 +1,5 @@
+package C01_C15;
+
 import java.util.Scanner;
 
 public class C02_übung {
